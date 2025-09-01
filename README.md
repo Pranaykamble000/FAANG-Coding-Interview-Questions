@@ -1,7 +1,7 @@
 # FAANG Coding Interview Preparation
 
 <div align="center">
-  <a href="https://github.com/ombharatiya/FAANG-Coding-Interview-Questions">
+  <a href="https://github.com/Pranay kamble000/FAANG-Coding-Interview-Questions">
     <img src="https://img.shields.io/badge/🚀%20FAANG%20Interview%20Prep-000000?style=for-the-badge" alt="FAANG Interview Prep" />
   </a>
   
